@@ -70,7 +70,7 @@ After starting the project, it will be available at `http://localhost:8080`. You
 
 ## Example
 
-- [DEMO LINK](https://bodyarespect.github.io/museum_landing_page/)
+- [DEMO LINK](https://brespect.github.io/museum_landing_page/)
 
 ## Technologies Used
 
